@@ -1,0 +1,32 @@
+{
+  "dimensions": {
+    "width": 640,
+    "height": 480
+  },
+  "zones": [
+    {
+      "Zone A": {
+        "description": "A",
+        "zone_type": "Box",
+        "vector": [
+          [
+            360,
+            80
+          ],
+          [
+            360,
+            393
+          ],
+          [
+            621,
+            393
+          ],
+          [
+            621,
+            80
+          ]
+        ]
+      }
+    }
+  ]
+}
